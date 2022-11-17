@@ -684,7 +684,15 @@ p {
 }
 #bloc-8 p{
     font-size: 18px;
+    color: black!important;
 }
+
+.citation {
+    font-size: 18px;
+/*     max-width: 51rem;
+ */    margin: auto;
+}
+
 
 .tight-width-whitespace {
     max-width: 600px;
