@@ -682,6 +682,9 @@ a {
 p {
     font-size: 12px;
 }
+#bloc-8 p{
+    font-size: 18px;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
@@ -711,6 +714,7 @@ h2 {
     font-size: 22px;
     line-height: 1.4em;
 }
+
 
 h3 {
     font-size: 15px;
@@ -778,7 +782,7 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: white!important;
 }
 
 .btn-atomic-tangerine {
@@ -819,6 +823,7 @@ h4 {
 .bg-lines-h2-bg {
     background-image: url("img/lines-h2-bg.avif");
 }
+
 
 .bg-banniere {
     background-image: url("img/agence-la-panthere.avif");
